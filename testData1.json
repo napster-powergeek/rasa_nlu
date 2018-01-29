@@ -1,0 +1,329 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "Check for Button name while creating an entity form different view",
+        "intent": "create",
+        "entities": []
+      },
+      {
+        "text": "Check for commit option from the grid view of the entities.",
+        "intent": "check",
+        "entities": []
+      },
+      {
+        "text": "Delete project without content",
+        "intent": "delete",
+        "entities": [
+          {
+            "start": 7,
+            "end": 14,
+            "value": "project",
+            "entity": "project"
+          }
+        ]
+      },
+      {
+        "text": "Update a connector",
+        "intent": "update",
+        "entities": []
+      },
+      {
+        "text": "Update code block",
+        "intent": "update",
+        "entities": []
+      },
+      {
+        "text": "Generate functions for tags attached on attribute",
+        "intent": "generate",
+        "entities": []
+      },
+      {
+        "text": "Check for header headings",
+        "intent": "check",
+        "entities": []
+      },
+      {
+        "text": "Update attribute with already existing name",
+        "intent": "update",
+        "entities": []
+      },
+      {
+        "text": "Check for generation function button",
+        "intent": "check",
+        "entities": []
+      },
+      {
+        "text": "Check for key attribute for a static entity and dynamic entity in the tree view.",
+        "intent": "check",
+        "entities": []
+      },
+      {
+        "text": "Delete the multiple Input parameter",
+        "intent": "delete",
+        "entities": []
+      },
+      {
+        "text": "Delete the multiple Output parameter",
+        "intent": "delete",
+        "entities": []
+      },
+      {
+        "text": "Try to  generate a function from ER modeler  for the single entity or multiple entities.",
+        "intent": "generate",
+        "entities": []
+      },
+      {
+        "text": "Create Dynamic Entity",
+        "intent": "create",
+        "entities": []
+      },
+      {
+        "text": "Update function parameters / tags",
+        "intent": "update",
+        "entities": []
+      },
+      {
+        "text": "Open function directly form ER model",
+        "intent": "open",
+        "entities": []
+      },
+      {
+        "text": "Add and next while adding the attributes",
+        "intent": "create",
+        "entities": []
+      },
+      {
+        "text": "Check the close button from tags",
+        "intent": "check",
+        "entities": []
+      },
+      {
+        "text": "View details of already created Input parameter",
+        "intent": "view",
+        "entities": []
+      },
+      {
+        "text": "Generate functions for tags attached on relationship",
+        "intent": "generate",
+        "entities": []
+      },
+      {
+        "text": "Add Output parameter with same name and caption",
+        "intent": "create",
+        "entities": []
+      },
+      {
+        "text": "Add bundle dependencies",
+        "intent": "create",
+        "entities": []
+      },
+      {
+        "text": "Verify the function name in pattern analysis file and generated function",
+        "intent": "check",
+        "entities": []
+      },
+      {
+        "text": "Generate functions for tags attached on entity",
+        "intent": "generate",
+        "entities": []
+      },
+      {
+        "text": "Add Tags",
+        "intent": "create",
+        "entities": []
+      },
+      {
+        "text": "View details of already created Output parameter",
+        "intent": "view",
+        "entities": []
+      },
+      {
+        "text": "Delete Entity",
+        "intent": "delete",
+        "entities": []
+      },
+      {
+        "text": "Update  Output parameters parameters / tags",
+        "intent": "update",
+        "entities": []
+      },
+      {
+        "text": "Delete from project view",
+        "intent": "delete",
+        "entities": [
+          {
+            "start": 12,
+            "end": 19,
+            "value": "project",
+            "entity": "project"
+          }
+        ]
+      },
+      {
+        "text": "Add Input parameter with same name and caption",
+        "intent": "create",
+        "entities": []
+      },
+      {
+        "text": "Update Project",
+        "intent": "update",
+        "entities": [
+          {
+            "start": 7,
+            "end": 14,
+            "value": "Project",
+            "entity": "project"
+          }
+        ]
+      },
+      {
+        "text": "commit a project",
+        "intent": "commit",
+        "entities": [
+          {
+            "start": 9,
+            "end": 16,
+            "value": "project",
+            "entity": "project"
+          }
+        ]
+      },
+      {
+        "text": "Override and update",
+        "intent": "update",
+        "entities": []
+      },
+      {
+        "text": "Delete project with content",
+        "intent": "delete",
+        "entities": []
+      },
+      {
+        "text": "Delete the selected function",
+        "intent": "delete",
+        "entities": []
+      },
+      {
+        "text": "Add message for a function",
+        "intent": "create",
+        "entities": []
+      },
+      {
+        "text": "Check for confirmation while updating on entity attributes , faults etc after saving the changes",
+        "intent": "check",
+        "entities": []
+      },
+      {
+        "text": "View details of already created attribute",
+        "intent": "view",
+        "entities": []
+      },
+      {
+        "text": "Update a enumerations",
+        "intent": "update",
+        "entities": []
+      },
+      {
+        "text": "Add already existing role",
+        "intent": "create",
+        "entities": []
+      }
+      {
+        "text": "hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi ",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "sup?",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey there",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "goodbye",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "bye",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "take care",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "thanks",
+        "intent": "thanks",
+        "entities": []
+      },
+      {
+        "text": "thank you ",
+        "intent": "thanks",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "yup",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "okay",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "do it",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "no ",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "dont",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "affirm",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "deny",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "nah",
+        "intent": "deny",
+        "entities": []
+      }
+    ]
+  }
+}

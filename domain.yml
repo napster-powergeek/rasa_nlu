@@ -1,0 +1,50 @@
+intents:
+  - greet
+  - thanks
+  - affirm
+  - deny
+  - create
+  - check
+  - delete
+  - update
+  - generate
+  - view
+  - open
+  - commit
+  - bye
+  
+action_factory: remote
+  
+entities:
+ - project
+
+templates:
+ utter_greet:
+   - "Hey there!"
+   - "Hello !"
+   - "Hi"
+   - "Whatsup?"
+ utter_goodbye:
+   - "Goodbye :("
+   - "Bye-bye"
+   - "take care"
+ utter_default:
+   - "This is the default message"
+ utter_ask_helpMore:
+   - "Is there anything more that I can help you with?"
+ utter_howCanIHelp:
+   - "How can I help you?"
+ utter_inform_affirmative:
+   - "Thank you for reaching out to me"
+ utter_inform_negative:
+   - "This issue would require more expertise please contact us on the helpline"
+ 
+
+actions:
+  - utter_greet
+  - utter_goodbye
+  - utter_default
+  - utter_ask_helpMore
+  - utter_howCanIHelp
+  - utter_inform_affirmative
+  - utter_inform_negative  

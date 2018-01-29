@@ -1,0 +1,68 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [], 
+        "intent": "Create", 
+        "text": "Check for Button name while creating an entity form different view"
+      }, 
+      {
+        "entities": [], 
+        "intent": "Commit", 
+        "text": "Check for commit option from the grid view of the entities."
+      }, 
+      {
+        "entities": [], 
+        "intent": "Delete", 
+        "text": "Delete project without content"
+      }, 
+      {
+        "entities": [], 
+        "intent": "Update", 
+        "text": "Update a connector"
+      }, 
+      {
+        "entities": [], 
+        "intent": "Delete", 
+        "text": "Right Click on role and delete"
+      }, 
+      {
+        "entities": [], 
+        "intent": "Create", 
+        "text": "Try to  generate a function from ER modeler  for the single entity or multiple entities."
+      }, 
+      {
+        "entities": [], 
+        "intent": "Generate", 
+        "text": "Verify the function name in pattern analysis file and generated function"
+      }, 
+      {
+        "entities": [], 
+        "intent": "Generate", 
+        "text": "Generate functions for tags attached on entity"
+      }, 
+      {
+        "entities": [], 
+        "intent": "Search", 
+        "text": "Verify the domain type of input parameters generated"
+      }, 
+      {
+        "entities": [], 
+        "intent": "Add", 
+        "text": "Add Faults"
+      }, 
+      {
+        "entities": [], 
+        "intent": "Add", 
+        "text": "Add already existing privilege"
+      }, 
+      {
+        "entities": [], 
+        "intent": "Add", 
+        "text": "Form for adding a relationship should be same at entity level and it is being added from ER model"
+      }
+    ], 
+    "entity_synonyms": [], 
+    "regex_features": []
+  }
+}

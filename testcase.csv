@@ -1,0 +1,73 @@
+Check for Button name while creating an entity form different view
+Check for commit option from the grid view of the entities.
+Delete project without content
+"Deselects all the functions from the list of functions to be generated , the generate button should be disabled."
+Update a connector
+Right Click on role and delete
+Update code block
+User should get a confirmation message before updating any changes
+User should get a confirmation message before updating any changes
+Generate functions for tags attached on attribute
+The message which comes after adding a relationship should be proper so that the user can distinguish which relationship is being referred.
+View code of function
+Update  Input parameters parameters / tags
+Update function name with already existing name
+Check for header headings
+Check for header headings
+Right Click on Privilege and commit
+Update attribute with already existing name
+Check for generation function button
+Check for key attribute for a static entity and dynamic entity in the tree view.
+Delete the multiple Input parameter
+Delete the multiple Output parameter
+Try to  generate a function from ER modeler  for the single entity or multiple entities.
+Create Dynamic Entity
+Update function parameters / tags
+Shadow field should get highlighted while updation
+Referred Entity test cases for further testing
+Open function directly form ER model
+Add and next while adding the attributes
+Check the close button from tags
+View details of already created Input parameter
+Add role with no privilege
+Generate functions for tags attached on relationship
+Add Output parameter with same name and caption
+Add bundle dependencies
+Add bundle dependencies
+Check for highlighted fields when we delete the existing values tags and supported language.
+Verify the function name in pattern analysis file and generated function
+User should be able to open the relationship field by clicking on arrow by single click
+Generate functions for tags attached on entity
+Verify the domain type of input parameters generated
+Search an entity
+Add Tags
+View details of already created Output parameter
+Delete Entity
+Update  Output parameters parameters / tags
+Delete  from project view
+Expand screen
+Add Input parameter with same name and caption
+Add Attributes
+Search numberic value from grid view
+Update Project
+Generate  Atomic function Using tag as Runnable on entity
+User should get a confirmation message before updating any changes
+Annotation should be shown after addition in entity attribute relationship field.
+Override and update
+Delete project with content
+Delete the selected function
+Add message for a function
+"Check for confirmation while updating on entity attributes , faults etc after saving the changes"
+commit a project
+Add Faults
+Add already existing privilege
+View details of already created attribute
+Check for delete button for entity panal.
+commit a project when no changes are done
+Add role from right grid
+Build Project
+Check for  filter  in the tree view of entities.
+Create project with mandatory fields only
+Update a enumerations
+Add already existing role
+Form for adding a relationship should be same at entity level and it is being added from ER model

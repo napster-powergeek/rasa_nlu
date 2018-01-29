@@ -1,0 +1,111 @@
+﻿{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "User (Vishakha)is able to see entities created by other users (Manjushree) in the local project which is not even present at the repository level. Scenario :  Both the users are working on the entities :  Vishakha's Step while working on ER modeler :  1. ",
+        "intent": "Code",
+        "entities": []
+      },
+      {
+        "text": "On the tree diagram view of algorithms, values are not visible correctly.   PFA the screenshot for your reference.",
+        "intent": "UI",
+        "entities": []
+      },
+      {
+        "text": "The list of instances is not shown by caption in the tree view.   As per other modules, the list of instances is not shown by caption in the tree view. Instead, it is listed with its names.    PFA the video for your reference.",
+        "intent": "UI",
+        "entities": []
+      },
+      {
+        "text": "When the project is open in the right side panal, it is not getting committed.   PFA the video for your reference.",
+        "intent": "Code",
+        "entities": []
+      },
+      {
+        "text": "The form of both input and output parameter is coming with heading as \"Parameter\".  Expected : For input parameter form name should be \"Input Parameter\"  similar changes to be done in the output parameter.  PFA screenshot",
+        "intent": "Code",
+        "entities": []
+      },
+      {
+        "text": "While defining domain type as\"Enum Domain\" for Input/Output parameter no values are getting populated for enumeration* field.As enum* is a mandatory field, Because of this save button is disabled and user is not able to save the module.  For the entity, e",
+        "intent": "Code",
+        "entities": []
+      },
+      {
+        "text": "While defining domain type as\"Enum Domain\" for Input/Output parameter no values are getting populated for enumeration* field.As enum* is a mandatory field, Because of this save button is disabled and user is not able to save the module.  For the entity, e",
+        "intent": "Code",
+        "entities": []
+      },
+      {
+        "text": "User is able to create privilege with the same name in upper and lower case  PFA screenshot",
+        "intent": "Code",
+        "entities": []
+      },
+      {
+        "text": "The user is able to update the input/output parameter name which is already existing.   example - function name- new1  function name- new2  new2 is updated to NEW1   PFA screenshot",
+        "intent": "Code",
+        "entities": []
+      },
+      {
+        "text": "User is able to create privilege with the same name in upper and lower case  PFA screenshot",
+        "intent": "Code",
+        "entities": []
+      },
+      {
+        "text": "While creating a project no value is getting populated for Built By and Certified By fields at project level   As per release notes ---(currently it will have DIGITATE as the value)  PFA screenshot",
+        "intent": "Code",
+        "entities": []
+      },
+      {
+        "text": "If we click on Get Project button from the repository where there are no changes / updates in the project that we are getting, the error message shown is not clearly understandable.  Steps :  1. Commit a project (say project1 ) to repository.  2. Go to re",
+        "intent": "UI",
+        "entities": []
+      },
+      {
+        "text": "While creating the instance of a policy, the default value of the attribute of a policy should be visible if it is already defined.   Steps :   1. Create one local policy.  2. Add an attribute (say UserName) in the same . 3. While adding the attribute, gi",
+        "intent": "Code",
+        "entities": []
+      },
+      {
+        "text": "Below functions which are getting generated are not having a proper datatype of input /output parameters as described in a file. They are getting generated with different datatype.      Tags                Function                                      Dat",
+        "intent": "Data",
+        "entities": []
+      },
+      {
+        "text": "Unable to see the data inside an already created entity.   PFA the sccreenshot.",
+        "intent": "Data",
+        "entities": []
+      },
+      {
+        "text": "User is able to create duplicate dynamic entity in upper case and lower case  Please find the screenshot for your reference.",
+        "intent": "Code",
+        "entities": []
+      },
+      {
+        "text": "When we double click on different modules inside a project from repository level , the data is not visible in the right side pane.  PFA the screenshot for your reference.",
+        "intent": "Data",
+        "entities": []
+      },
+      {
+        "text": "Algorithm is not getting committed when we right click on any algorithm and click on commit button.  PFA the screenshot for your reference.",
+        "intent": "Code",
+        "entities": []
+      },
+      {
+        "text": "User is not able to add the project from the panel  PFA screenshot",
+        "intent": "Code",
+        "entities": []
+      },
+      {
+        "text": "The grid view does not show correct values for few of the entities.   Steps :   1. Entity1 is having root and abstract flags as false (in grid view the values are shown as false) 2. Entity2 is having root and abstract flags as false (in grid view the valu",
+        "intent": "Code",
+        "entities": []
+      },
+      {
+        "text": "After adding faults, when the fault get opened, the fields displayed are not properly aligned.  PFA the screenshot for your reference.",
+        "intent": "UI",
+        "entities": []
+      }
+    ]
+  }
+}

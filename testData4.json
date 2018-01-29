@@ -1,0 +1,66 @@
+﻿{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "Check for Button name while creating an entity form different view",
+        "intent": "Entity Form",
+        "entities": []
+      },
+      {
+        "text": "Check for commit option from the grid view of the entities.",
+        "intent": "Grid View of Entity",
+        "entities": []
+      },
+      {
+        "text": "Delete project without content",
+        "intent": "Project",
+        "entities": []
+      },
+      {
+        "text": "Update a connector",
+        "intent": "Connector",
+        "entities": []
+      },
+      {
+        "text": "Right Click on role and delete",
+        "intent": "Role",
+        "entities": []
+      },
+      {
+        "text": "Try to  generate a function from ER modeler  for the single entity or multiple entities.",
+        "intent": "Dynamic Entity",
+        "entities": []
+      },
+      {
+        "text": "Verify the function name in pattern analysis file and generated function",
+        "intent": "Functions",
+        "entities": []
+      },
+      {
+        "text": "Generate functions for tags attached on entity",
+        "intent": "Functions",
+        "entities": []
+      },
+      {
+        "text": "Verify the domain type of input parameters generated",
+        "intent": "Entity",
+        "entities": []
+      },
+      {
+        "text": "Add Faults",
+        "intent": "Faults",
+        "entities": []
+      },
+      {
+        "text": "Add already existing privilege",
+        "intent": "Privilege",
+        "entities": []
+      },
+      {
+        "text": "Form for adding a relationship should be same at entity level and it is being added from ER model",
+        "intent": "ER Model",
+        "entities": []
+      }
+    ]
+  }
+}
